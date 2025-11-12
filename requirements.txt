@@ -4,6 +4,5 @@ numpy
 matplotlib
 scipy
 plotly
-os
 io
 re
