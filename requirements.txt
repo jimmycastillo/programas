@@ -6,3 +6,4 @@ scipy
 plotly
 kaleido
 xlsxwriter
+io
